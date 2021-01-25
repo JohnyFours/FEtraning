@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+    <table>
+        <tr id="head">
+            <th>Name</th>
+            <th>Value</th>
+        </tr>
+        <tr>
+            <td>
+            <label for="name">Name</label>
+            </td>
+            <td><input type="text" id="name"></td>
+        </tr>
+        <tr>
+            <td>Sex</td>
+            <td>
+                <form action="sex" name="Sex" id="sex">
+                    <input type="radio" name="sex" value="Male">Male<br>
+                    <input type="radio" name="sex" value="Famale">Famale
+                </form>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Eye Color
+            </td>
+            <td>
+                <select name="Eye Color" id="Eye Color">
+                    <option value="green">green</option>
+                    <option value="brown">brown</option>
+                    <option value="blue">blue</option>
+                    <option value="gray">gray</option>
+                </select></td>
+        </tr>
+        <tr>
+            <td>Check all that apply</td>
+            <td>
+                <form action="Check" id="checkbox">
+                    <input type="checkbox" name="check" value="Check">Over 6 feet tall<br>
+                    <input type="checkbox" name="check" value="Over 200 pounds">Over 200 pounds
+                </form>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2">
+                <p>Describe your athletic ability:</p>
+                <textarea name="" id="" cols="40" rows="5"></textarea>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2" id="submit">
+                <input type="submit" value="Enter my Inforamtion">
+            </td>
+        </tr>
+    </table>
+
+</body>
+
+</html>

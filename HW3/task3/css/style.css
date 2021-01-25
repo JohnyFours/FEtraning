@@ -1,0 +1,21 @@
+*{
+    padding: 2px;
+    margin: 2px;
+}
+table{
+    border: 1px solid gray;
+    table-layout: fixed;
+}
+td{
+    border: 1px solid gray
+}
+tr{
+   
+}
+#head{
+    border:1px solid grey;
+    background-color: slateblue;
+}
+#submit{
+    text-align: center;
+}
