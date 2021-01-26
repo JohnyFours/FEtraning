@@ -1,0 +1,51 @@
+body{
+    background-color: yellow;
+}
+*{
+    padding: 0px;
+    margin: 0px;
+}
+header{
+    background-color: rgba(255, 187, 0, 0.959);
+    height: 22px;
+    text-align: center;
+    padding-top: 6px;
+}
+.title{
+height: 35px;
+text-align: center;
+padding-top: 10px;
+}
+#Email ,#Name ,#Address{
+margin-bottom: 20px;
+padding: 3px;
+margin: 7px;
+}
+label{
+
+}
+.form{
+    text-align:center; 
+}
+table{
+   
+    width:400px;
+    margin: auto;
+    
+}
+.info{
+    text-align:end;
+    
+}
+.input{
+    padding:7px;
+    margin-right: 5px;
+}
+#Submit{
+    text-align: center;
+}
+
+
+
+
+
