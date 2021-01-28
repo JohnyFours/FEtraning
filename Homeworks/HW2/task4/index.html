@@ -7,13 +7,13 @@
     <title>Document</title>
     <link rel="stylesheet" href="css/style.css">
 </head>
+<header id="author">Protasov Oleksandr</header>
+<main>
 
-<body>
-    <header><strong>The World of Fruit</strong></header>
-    <div class="title"><strong>Fruit Survey</strong></div>
-
-    <table>
-        <form action="" method="get">
+    <body>
+        <header><strong>The World of Fruit</strong></header>
+        <div class="title"><strong>Fruit Survey</strong></div>
+        <table>
             <tr>
                 <td class="info"><label for="Name"></label>Name</td>
                 <td><input type="text" name="Name" id="Name" required></td>
@@ -27,27 +27,27 @@
                 </td>
             </tr>
             <tr>
-                <td class="info" ><label for="Email" >Email</label>
+                <td class="info"><label for="Email">Email</label>
                 </td>
                 <td>
                     <input type="email" name="Email" id="Email" required>
                 </td>
             </tr>
             <tr>
-                <td class="info" valign="top">
+                <td class="info">
                     How many pieces of fruit<br> do you eat per day?
                 </td>
-                <td class="input" required>
-                    <input type="radio" name="1" id="">0<br>
-                    <input type="radio" name="1" id="">1<br>
-                    <input type="radio" name="1" id="">2<br>
-                    <input type="radio" name="1" id="">More than 2
+                <td class="input">
+                    <input type="radio" name="1" required>0<br>
+                    <input type="radio" name="1" required>1<br>
+                    <input type="radio" name="1" required>2<br>
+                    <input type="radio" name="1" required>More than 2
                 </td>
             </tr>
             <tr>
-                <td class="info" valign="top">My Favourite fruit</td>
-                <td class="input" >
-                    <select name="Apple" id="" size="4" required multiple>
+                <td class="info">My Favourite fruit</td>
+                <td class="input">
+                    <select name="Apple" size="4" required multiple>
                         <option value="Apple">Apple</option>
                         <option value="Banana">Banana</option>
                         <option value="Plum">Plum</option>
@@ -60,16 +60,16 @@
             <tr>
                 <td class="info">Would you like a<br>brochure?</td>
                 <td class="input">
-                    <input type="checkbox" name="Submit" id="Submit" required>
+                    <input type="checkbox" name="Submit" required>
                 </td>
             </tr>
             <tr>
-                <td colspan="2" id="Submit"><input type="button" value="Submit" required></td>
+                <td colspan="2" id="Submit"><input type="button" value="Submit"></td>
             </tr>
-        </form>
+        </table>
 
-    </table>
-
-</body>
+    </body>
+</main>
+<footer>&copy; 2021</footer>
 
 </html>

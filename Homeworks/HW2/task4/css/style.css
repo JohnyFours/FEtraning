@@ -28,21 +28,22 @@ label{
     text-align:center; 
 }
 table{
-   
-    width:400px;
+    width:500px;
     margin: auto;
-    
 }
 .info{
     text-align:end;
-    
+    vertical-align: top;
 }
 .input{
-    padding:7px;
-    margin-right: 5px;
+  padding: 5px;
+
 }
 #Submit{
     text-align: center;
+}
+#author{
+    text-align: left;
 }
 
 

@@ -5,9 +5,10 @@
 table{
     border: 1px solid gray;
     table-layout: fixed;
+    width: 400px;
 }
 td{
-    border: 1px solid gray
+    border: 1px solid gray;
 }
 tr{
    

@@ -1,4 +1,5 @@
 .li{
 text-decoration: underline ;
 color: blue;
+list-style-type: disc;
 }
