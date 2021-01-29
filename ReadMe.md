@@ -6,13 +6,13 @@ For easy viewing of the content, you can follow the links below:
 
 *Tranings: https://github.com/JohnyFours/FEtraning/tree/master/Tranings
    
-   *traning1:https://github.com/JohnyFours/FEtraning/tree/master/Tranings/traning1
+    *traning1:https://github.com/JohnyFours/FEtraning/tree/master/Tranings/traning1
 
-   *traning2:https://github.com/JohnyFours/FEtraning/tree/master/Tranings/traning2
+    *traning2:https://github.com/JohnyFours/FEtraning/tree/master/Tranings/traning2
 
-   *tranings3:https://github.com/JohnyFours/FEtraning/tree/master/Tranings/traning3
+    *tranings3:https://github.com/JohnyFours/FEtraning/tree/master/Tranings/traning3
    
-   *traning4:https://github.com/JohnyFours/FEtraning/tree/master/Tranings/traning4
+    *traning4:https://github.com/JohnyFours/FEtraning/tree/master/Tranings/traning4
            
            *task1:https://github.com/JohnyFours/FEtraning/tree/master/Tranings/traning4/task1
 
